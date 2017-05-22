@@ -4,7 +4,7 @@ Minimalistic blog theme for [Ghost](http://github.com/tryghost/ghost/).
 
 Forked from https://github.com/rriegger/MinimalisticBlogTheme & https://github.com/leonidasv   
 
-Changed some part of content.     
+Changed some parts of content.     
 
 To change the left part of index : rewrite file 'default.hbs'     
 To change the right part of index : rewrite file 'index.hbs'   
